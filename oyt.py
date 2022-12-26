@@ -1,0 +1,8 @@
+print(40*"=")
+print("Program sederhana ae")
+print(40*"=")
+Shesh = input("Nama          : ")
+clas = input("Kelas         : ")
+age = input("Umur          : ")
+sekul = input("Asal sekolah  : ")
+print(40*"=")
